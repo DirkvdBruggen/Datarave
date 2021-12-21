@@ -3,13 +3,13 @@
 **A Tool for audiovisual live coding environments for collaborative performances.**
 
 ## 📋 Table of Contents
-- 📟 [DATARAVE?](#-about)
-- 🎮 [What can I do with Mercury?](#-features-overview)
-- 🔭 [Who is it for?](#-vision--goals)
-- 🚀 [Let's get started!](#-install)
-- 🙏 [Thanks](#-thanks)
+- ℹ️ [DATARAVE?](#-about)
+- 🕹️ [What can I do with DATARAVE?](#-features-overview)
+- 👁️‍ [Who is it for?](#-vision--goals)
+- 🎬 [Let's get started!](#-install)
+- 🤍 [Thanks](#-thanks)
 
-## 📟 About 
+## ℹ️ About 
 
 **DATARAVE is a tool for audiovisual live coding environments for collaborative performances.**
 
