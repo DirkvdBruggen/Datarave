@@ -12,5 +12,11 @@
 ## ℹ️ About 
 
 **DATARAVE is a tool for audiovisual live coding environments for collaborative performances.**
+
 ![COLLAB!](images/pexels-tara-winstead-8386434.jpg)
+
 Hello welcome to my github
+
+## 🎮 Features Overview
+
+Quick access to playback of samples and change timing and tempo of samples or synthesizers
