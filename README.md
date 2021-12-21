@@ -3,13 +3,13 @@
 **A Tool for audiovisual live coding environments for collaborative performances.**
 
 ## 📋 Table of Contents
-- ℹ️ [DATARAVE?](#about)
-- 🕹️ [What can I do with DATARAVE?](#---features-overview)
+- ℹ️ [DATARAVE?](#-about)
+- 🕹️ [What can I do with DATARAVE?](#-features-overview)
 - 👁️‍ [Who is it for?](#-vision--goals)
 - 🎬 [Let's get started!](#-install)
 - 🤍 [Thanks](#-thanks)
 
-## About 
+## ℹ️About 
 
 **DATARAVE is a tool for audiovisual live coding environments for collaborative performances.**
 
@@ -17,6 +17,6 @@
 
 Hello welcome to my github
 
-## 🕹️ Features Overview
+## 🕹️Features Overview
 
 Quick access to playback of samples and change timing and tempo of samples or synthesizers
