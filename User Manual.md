@@ -8,6 +8,7 @@ At the moment the tool is build for a livecoding environment called [Mercury](ht
 - [Install Mercury](#-install-mercury)
 - [Install Processing](#install-processing)
 - [Install Murgee Autotyper](#install-processing)
+- [Starting up](#starting-up)
 
 # 💻 Install Mercury
 
@@ -64,3 +65,19 @@ You are now ready to start coding your first sounds! 🎶💻🎶
 2. Download the latest settings on my github [here](\Datarave\Code)
 
 3. When installed import the settings by clicking the 3 dots in Murgee auto typer
+
+# Starting Up
+
+1. launch Mercury as described in [Launch Mercury](-launch-mercury)
+
+2. launch Processing opening Processing_Datarave.pde
+
+3. launch Murgee Autotyper
+
+4. In Processing start the sketch by clicking the play button.
+
+5. A window will pop up with "start robot"
+
+6. IMPORTANT focus you cursor to Mercury by clicking the Mercury code environment.
+
+7. The robot will now start to write code!
