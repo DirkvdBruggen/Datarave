@@ -1,0 +1,53 @@
+// genre 1 
+set scale major d
+ring theme sine(16 5 0 24)
+ring variation invert(theme 0 24)
+ring phrase join(theme variation)
+ring section clone(phrase 0 5 9 7)
+new synth sine name(arpy)
+    set arpy time(1/16) shape(1 170) note(section 1)
+    set arpy fx(reverb 0.8 7) pan(random) gain(1.4)
+
+ring aKick [1 0 0 0 0 0 0 0]
+new sample kick_909 time(1/16) play(aKick)
+ring aSnare [0 0 0 0 1 0 0 0]
+new sample clap_min time(1/16) play(aSnare)
+
+set time 100
+ring aHihat [1 1 1 1 1 1 1 1]
+new sample hat_909 time(1/16) play(aHihat)
+
+//genre 2
+set tempo 130
+ring jedi [-5 0 2 3 5 3 -5 -5 0 2 3 -5 3 0 7 5]
+new synth sine name(luke)
+    set luke note(jedi 2) shape(200) time(1/16)
+new synth sine name(leia)
+    set leia note(jedi 3) shape(100) time(1/16)
+
+ring aKick2 [1 0 0 0 1 0 0 0]
+new sample kick_house time(1/16) play(aKick2)
+ring aSnare2 [0 0 0 0 1 0 0 0]
+new sample snare_909 time(1/16) play(aSnare2) 
+
+ring aHat2 [0 0 0 0 0 0 1 0]
+new sample hat_909_open time(1/16) play(aHat2)
+
+// genre 3
+ring aBass [1[1 0 0]]
+new synth saw note(0 0) name(bass)
+	set bass fx(lfo 1/4 up) shape (1 90) time(1/16)
+	set bass wave2(square 0.9983) beat(aBass 1)
+	set bass fx(filter low 1/3 3000 100 0.4 0 0.2)
+	set bass fx(chip 0.2) gain(1.5)
+	set bass fx(reverb 0.9 5)
+
+set scale minor d
+set randomSeed 31415
+new sample kick_min time(1/4)
+new sample hat_min time(1/4 1/8) gain(0.4)
+
+ring loBeat [1 0 0 1 0.5]
+ring hiBeat [0 1 0.2 0]
+new sample tabla_lo time(1/8) play(loBeat) gain(0.5)
+new sample tabla_hi time(1/8) play(hiBeat) gain(0.4)
