@@ -1,6 +1,6 @@
-#  📘 Algorave Tutorial
+#  📘 User manual Algorave
 
-Welcome bij Algoraves collabrotive robot! This tutorial will help you get started co performing with a robot live coder.
+Welcome to Algoraves collabrotive robot! This tutorial will help you get started co performing with a robot live coder.
 
 At the moment the tool is build for a livecoding environment called [Mercury](https://github.com/tmhglnd/mercury/). I will describe how to download Mercury, but if you want a in depth tutorial please visit [Mercury Tutorial page.](https://github.com/tmhglnd/mercury/blob/master/docs/tutorial.md) 
 
@@ -53,8 +53,14 @@ You are now ready to start coding your first sounds! 🎶💻🎶
 - [Download for Windows](https://github.com/processing/processing4/releases/download/processing-1277-4.0b2/processing-4.0b2-windows64.zip)
 - [Download for Mac](https://github.com/processing/processing4/releases/download/processing-1277-4.0b2/processing-4.0b2-macosx.zip)
 
-2. Download the Processing sketch (code)[here](/Datarave/Code/Processing_Datarave).
+2. Download the Processing sketch (code)[here](/Code/Processing_Datarave).
 
 3. Open Processing_Datarave.pde 
 
 # Install Murgee autotyper
+
+1. Download the Murgee Auto typer [here](https://www.murgee.com/auto-typer/download/setup.exe)
+
+2. Download the latest settings on my github [here](\Datarave\Code)
+
+3. When installed import the settings by clicking the 3 dots in Murgee auto typer
