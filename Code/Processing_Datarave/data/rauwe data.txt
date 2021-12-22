@@ -1,0 +1,84 @@
+# Opmerking: door stationsverplaatsingen en veranderingen in waarneemmethodieken zijn deze tijdreeksen van uurwaarden mogelijk inhomogeen! Dat betekent dat deze reeks van gemeten waarden niet geschikt is voor trendanalyse. Voor studies naar klimaatverandering verwijzen we naar de gehomogeniseerde dagreeksen <http://www.knmi.nl/nederland-nu/klimatologie/daggegevens> of de Centraal Nederland Temperatuur <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/centraal-nederland-temperatuur-cnt>.
+# 
+# SOURCE: ROYAL NETHERLANDS METEOROLOGICAL INSTITUTE (KNMI)
+"# Comment: These time series are inhomogeneous because of station relocations and changes in observation techniques. As a result, these series are not suitable for trend analysis. For climate change studies we refer to the homogenized series of daily data <http://www.knmi.nl/nederland-nu/klimatologie/daggegevens> or the Central Netherlands Temperature <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/centraal-nederland-temperatuur-cnt>."
+# 
+# STN         LON(east)   LAT(north)  ALT(m)      NAME
+# 240         4.790       52.318      -3.30       Schiphol    
+# DD        : Windrichting (in graden) gemiddeld over de laatste 10 minuten van het afgelopen uur (360=noord; 90=oost; 180=zuid; 270=west; 0=windstil 990=veranderlijk. Zie http://www.knmi.nl/kennis-en-datacentrum/achtergrond/klimatologische-brochures-en-boeken / Mean wind direction (in degrees) during the 10-minute period preceding the time of observation (360=north; 90=east; 180=south; 270=west; 0=calm 990=variable)
+# FH        : Uurgemiddelde windsnelheid (in 0.1 m/s). Zie http://www.knmi.nl/kennis-en-datacentrum/achtergrond/klimatologische-brochures-en-boeken / Hourly mean wind speed (in 0.1 m/s)
+# FF        : Windsnelheid (in 0.1 m/s) gemiddeld over de laatste 10 minuten van het afgelopen uur / Mean wind speed (in 0.1 m/s) during the 10-minute period preceding the time of observation
+# FX        : Hoogste windstoot (in 0.1 m/s) over het afgelopen uurvak / Maximum wind gust (in 0.1 m/s) during the hourly division
+# STN,YYYYMMDD,H,   DD,   FH,   FF,   FX
+  240,20211101,    1,  180,   70,   70,  100
+  240,20211101,    2,  180,   70,   70,  110
+  240,20211101,    3,  180,   70,   70,  100
+  240,20211101,    4,  180,   70,   60,  100
+  240,20211101,    5,  180,   70,   70,  100
+  240,20211101,    6,  190,   80,   80,  110
+  240,20211101,    7,  200,   80,   80,  110
+  240,20211101,    8,  190,   90,   90,  130
+  240,20211101,    9,  190,   90,  100,  150
+  240,20211101,   10,  200,  100,  110,  150
+  240,20211101,   11,  200,  110,  110,  160
+  240,20211101,   12,  210,  110,  110,  160
+  240,20211101,   13,  210,   90,   90,  150
+  240,20211101,   14,  210,   90,   80,  140
+  240,20211101,   15,  200,   90,   90,  140
+  240,20211101,   16,  190,   70,   70,  120
+  240,20211101,   17,  180,   50,   40,   90
+  240,20211101,   18,  180,   50,   60,   70
+  240,20211101,   19,  180,   60,   60,   80
+  240,20211101,   20,  180,   60,   50,   90
+  240,20211101,   21,  190,   50,   50,   70
+  240,20211101,   22,  190,   50,   50,   70
+  240,20211101,   23,  180,   50,   40,   70
+  240,20211101,   24,  180,   40,   40,   60
+  240,20211102,    1,  170,   40,   40,   70
+  240,20211102,    2,  160,   40,   40,   50
+  240,20211102,    3,  160,   40,   40,   50
+  240,20211102,    4,  170,   40,   40,   50
+  240,20211102,    5,  170,   40,   40,   70
+  240,20211102,    6,  160,   40,   40,   60
+  240,20211102,    7,  170,   40,   40,   50
+  240,20211102,    8,  170,   40,   40,   50
+  240,20211102,    9,  170,   30,   20,   50
+  240,20211102,   10,  160,   30,   30,   50
+  240,20211102,   11,  150,   30,   30,   50
+  240,20211102,   12,  170,   30,   40,   50
+  240,20211102,   13,  170,   30,   30,   50
+  240,20211102,   14,  210,   20,   20,   40
+  240,20211102,   15,  280,   30,   30,   50
+  240,20211102,   16,  260,   30,   30,   40
+  240,20211102,   17,  230,   30,   50,   60
+  240,20211102,   18,  170,   20,   10,   60
+  240,20211102,   19,   70,   20,   20,   50
+  240,20211102,   20,   80,   20,   20,   40
+  240,20211102,   21,  100,   20,   20,   40
+  240,20211102,   22,  140,   30,   40,   40
+  240,20211102,   23,  150,   30,   40,   50
+  240,20211102,   24,  180,   40,   40,   60
+  240,20211103,    1,  160,   30,   30,   50
+  240,20211103,    2,  140,   20,   10,   40
+  240,20211103,    3,  150,   10,   20,   20
+  240,20211103,    4,  160,   10,   10,   20
+  240,20211103,    5,  150,   20,   20,   30
+  240,20211103,    6,  140,   30,   20,   40
+  240,20211103,    7,  120,   10,   10,   30
+  240,20211103,    8,  140,   10,   10,   20
+  240,20211103,    9,  150,   10,   10,   30
+  240,20211103,   10,  160,   10,   10,   20
+  240,20211103,   11,  170,   20,   10,   30
+  240,20211103,   12,  170,   10,   10,   20
+  240,20211103,   13,  310,   10,   10,   30
+  240,20211103,   14,   70,   20,   10,   70
+  240,20211103,   15,   90,   20,   20,   30
+  240,20211103,   16,   40,   20,   10,   30
+  240,20211103,   17,    0,   10,    0,   20
+  240,20211103,   18,  130,    0,   10,   10
+  240,20211103,   19,   80,   10,   10,   20
+  240,20211103,   20,    0,   10,    0,   30
+  240,20211103,   21,  150,    0,   10,   20
+  240,20211103,   22,  140,   10,   10,   20
+  240,20211103,   23,  160,   10,   10,   20
+  240,20211103,   24,  150,   10,   10,   20

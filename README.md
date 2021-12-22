@@ -1,6 +1,6 @@
 #  📘 Algorave Tutorial
 
-Welcome to Algorave collabrotive robot! This tutorial will help you get started co performing with a robot live coder.
+Welcome bij Algoraves collabrotive robot! This tutorial will help you get started co performing with a robot live coder.
 
 At the moment the tool is build for a livecoding environment called [Mercury](https://github.com/tmhglnd/mercury/). I will describe how to download Mercury, but if you want a in depth tutorial please visit [Mercury Tutorial page.](https://github.com/tmhglnd/mercury/blob/master/docs/tutorial.md) 
 
