@@ -19,4 +19,3 @@ Hello welcome to my github
 
 ## Features Overview
 
-Quick access to playback of samples and change timing and tempo of samples or synthesizers
